@@ -1,0 +1,14 @@
+Options +FollowSymLinks
+
+RewriteEngine on
+
+#RewriteCond %{HTTPS} off
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+RewriteRule  page/home/ includes/dispatcher.php?s=home
+
+RewriteRule  page/ourProcess/ includes/dispatcher.php?s=ourProcess
+
+RewriteRule  page/faq/ includes/dispatcher.php?s=faq
+
+RewriteRule  page/contactus/ includes/dispatcher.php?s=contactus

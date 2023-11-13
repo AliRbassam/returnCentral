@@ -1,0 +1,259 @@
+/*************English font***************/
+@media(max-width:900px){
+    .big{
+        font-size:12vw !important;
+        line-height:125%;
+    }
+    .medium{
+        font-size:5vw !important;
+        line-height:150%;
+    }
+    .small{
+        font-size:4vw !important;
+        line-height:150%;
+    }
+    .tiny{
+        font-size:3.5vw !important;
+        line-height:150%;
+    }
+}
+@media(min-width:900px){
+    .big{
+        font-size:3.5vw !important;
+        line-height:125%;
+    }
+    .medium{
+        font-size:1.2vw !important;
+        line-height:150%;
+    }
+    .small{
+        font-size:1vw !important;
+        line-height:150%;
+    }
+    .tiny{
+        font-size:0.85vw !important;
+        line-height:150%;
+    }
+}
+
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+
+.topSpacerBigger{
+    margin-top:50px;
+}
+.topSpacerBig{
+    margin-top:30px;
+}
+.topSpacer{
+    margin-top:20px;
+}
+.topSpacerSmall{
+    margin-top:15px;
+}
+.topSpacerSmaller{
+    margin-top:10px;
+}
+.bottomSpacerBigger{
+    margin-bottom:50px;
+}
+.bottomSpacerBig{
+    margin-bottom:30px;
+}
+.bottomSpacer{
+    margin-bottom:20px;
+}
+.bottomSpacerSmall{
+    margin-bottom:15px;
+}
+.leftSpacerSmall{
+    margin-left:10px;
+}
+.leftSpacer{
+    margin-left:20px;
+}
+.leftSpacerBig{
+    margin-left:50px;
+}
+.rightSpacer{
+    margin-right:20px;
+}
+.rightSpacerBig{
+    margin-right:30px;
+}
+
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+
+.black{
+    color:#231F20!important
+}
+.blackBg{
+    background:#231F20
+}
+
+.white{
+    color:#FFF !important;
+}
+.whiteBg{
+    background:#FFF !important;
+}
+
+.blue{
+    color:#104BA0;
+}
+.blueBg{
+    background:#104BA0;
+}
+
+.green{
+    color:#A4CE4C;
+}
+.greenBg{
+    background:#A4CE4C;
+}
+
+.grey{
+    color:#EAECEB;
+}
+.greyBg{
+    background:#EAECEB;
+}
+
+.greyLight{
+    color: #f3f4f4;
+}
+.greyLightBg{
+    background:#f3f4f4;
+}
+
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+
+a{
+    color:#2D2C2F !important;
+    text-decoration: none !important;
+}
+a:hover{
+    color:#A4CE4C !important;
+    text-decoration: none !important;
+}
+
+
+
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+
+
+input[type="button"]{
+    border:0px;
+    outline:none;
+    padding:10px 30px;
+    border-radius:10px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+}
+input[type="button"].blackGreen{
+    color:#FDFDFD;
+    background:#2D2C2F;
+}
+input[type="button"].blackGreen:hover{
+    background:#A4CE4C;
+}
+
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+/**********************************************************************************/
+
+.textCenter{
+    text-align:center !important;
+}
+.textRight{
+    text-align:right !important
+}
+.textLeft{
+    text-align:left !important;
+}
+.clickable{
+    cursor:pointer;
+}
+.underline{
+    text-decoration:underline;
+}
+.padding10{
+    padding:10px;
+}
+.padding5{
+    padding:5px;
+}
+
+.bold{
+    font-weight:bold !important;
+}
+.borderRadius{
+    border-radius:5px;
+}
+.noUnderline{
+    text-decoration: none !important;
+}
+
+@media(max-width:900px){
+    .desktopOnly{
+        display:none !important;
+    }
+    .mobileOnly{
+        display:block !important;
+    }
+}
+@media(min-width:900px){
+    .desktopOnly{
+        display:block !important;
+    }
+    .mobileOnly{
+        display:none !important;
+    }
+    .desktopNoPadding{
+        padding:0px !important;
+    }
+}
+
+.padding20{
+    padding:20px;
+}
+.bRadius10{
+    border-radius:10px;
+}
+/*
+*
+    scrollbar-width: thin;
+    scrollbar-color: #CCCCCC #FDFDFD;
+}
+
+#Works on Chrome, Edge, and Safari
+*::-webkit-scrollbar {
+    width: 12px;
+}
+*::-webkit-scrollbar-track {
+    background: #FDFDFD;
+}
+*::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 20px;
+    border: 3px solid #FDFDFD;
+}{
+*/
