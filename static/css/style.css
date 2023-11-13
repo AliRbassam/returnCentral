@@ -166,12 +166,22 @@ input[type="button"]{
     -moz-appearance: none;
     -ms-appearance: none;
 }
-input[type="button"].blackGreen{
-    color:#FDFDFD;
-    background:#2D2C2F;
+
+.buttonGreen{
+    -webkit-transition: color 0.3s ease;
+    transition: color 0.3s ease;
+    outline: 0;
+    font-weight: bold;
+    border-radius: 30px;
+    padding: 10px 30px;
+    box-shadow: 0 5px 32px 0 rgba(64, 38, 138, 0.42);
+    outline: 0;
+    text-decoration: none;
+    color: #fff;
+    background: #3abc5b;
 }
-input[type="button"].blackGreen:hover{
-    background:#A4CE4C;
+.buttonGreen:hover{
+    box-shadow: 0 5px 32px 0 rgba(64, 38, 138, 0.25);
 }
 
 /**********************************************************************************/
