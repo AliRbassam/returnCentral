@@ -189,6 +189,7 @@
 							we intimately comprehend the industry's persistent challenges. We stand at the forefront of</br>
 							cutting-edge logistics technology, actively crafting solutions to address the daily hurdles you</br>
 							encounter.</div>
+							
 						</div>
 
 					</div>
