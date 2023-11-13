@@ -25,7 +25,7 @@
 						</a>
 					</div>
 					
-					<div class="col-lg-5 col-12 textRight">
+					<div class="topSpacer col-lg-5 col-12 textRight">
 						<img src="../../static/images/image1.png" alt="">
 					</div>
 
@@ -41,11 +41,11 @@
 			<div class="contentSmall">
 				<div class="row">
 					<div class="col-12 ">
-						<div class="text-center">THE RX ROUTE</div>
+						<div class="text-center blue big">THE RX ROUTE</div>
 					</div>
 				</div>
 				<div class="row">
-					<div class="topSpacer col-lg-4 col-12">
+					<div class="topSpacer  col-lg-4 col-12">
 						<div class="card">
 							<img src="../../static/images/route/route1.png" class="card-img-top" alt="Card Image">
 							<div class="card-body">
@@ -70,7 +70,7 @@
 						</div>
 					</div>
 					<div class="topSpacer col-lg-4 col-12">
-						<div class="card">
+						<div class="  card">
 							<img src="../../static/images/route/route3.png" class="card-img-top" alt="Card Image">
 							<div class="card-body">
 								<h5 class="card-title textCenter black">DIGITAL SOLUTIONS</h5>
@@ -93,11 +93,11 @@
 			<div class="contentSmall">
 				<div class="row">
 					<div class="col-12 ">
-						<div class="text-center">OUR SOFTWARE HARNESSES YOUR ABILITIES</div>
+						<div class="text-center blue big ">OUR SOFTWARE HARNESSES YOUR ABILITIES</div>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-4">
+					<div class=" topSpacer col-md-4">
 						<div class="card ">
 							<img src="../../static/images/route/route4.png"class="card-img-top" alt="Card Image">
 							<div class="card-body">
@@ -108,7 +108,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class=" topSpacer col-md-4">
 						<div class="card">
 							<img src="../../static/images/route/route5.png" class="card-img-top" alt="Card Image">
 							<div class="card-body">
@@ -119,7 +119,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="topSpacer col-md-4">
 						<div class="card">
 							<img src="../../static/images/route/route6.png" class="card-img-top" alt="Card Image">
 							<div class="card-body">
@@ -138,7 +138,7 @@
 			<div class="contentSmall">
 				<div class="row">
 					<div class="col-12 ">
-							<div class="text-center">Jion US</div>
+							<div class="text-center blue big">Jion US</div>
 					</div>
 				</div>
 				<div class="row justify-content-center">
@@ -157,9 +157,9 @@
 
 							<div class="topSpacerBig form-group">
 								<label for="email">Email</label>
-								<input type="button" class=" form-control" id="email" name="email" required >
+								<input type="button" class=" form-control " id="email" name="email" required >
 							</div>
-							<button type="submit" class=" buttonGreen btn-primary">Submit</button>
+							<button type="submit" class="  btn-primary buttonGreen">Submit</button>
 						</form>
 					</div>
 				</div>

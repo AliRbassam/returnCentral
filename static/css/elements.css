@@ -87,34 +87,31 @@ body{
 /**Home**/
   
  #section2 .card{
-	position: relative;
-	width: 100%;
-	height: auto;
-	padding: 20px;
-	border-radius: 30px;
-	transition: border 1s;
-	background: rgb(233, 227, 227);
-}
-
- #section2 .card card-img-top {
-    display: block;
+    position: relative;
     width: 100%;
-    max-width: 500px;
-    aspect-ratio: 4/3;
-    object-fit: cover;
-    object-position: 50% 50%;
-    border-radius: 16px 16px 0 0;
-    filter: contrast(70%);
-}
-  #section2 .card card-img-top :hover{
-    filter: contrast(100%);
-}
-  #section2 .card-body {
+    height: 100%;
     display: flex;
     flex-direction: column;
-    padding: 20px 15px 20px;
+    padding: 10PX;
+    border-radius: 30px;
+    transition: border 1s;
+    background: rgb(233, 227, 227);
 }
-  
+
+/* section 3 */
+#section3 .card{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 30px;
+    transition: border 1s;
+    background: rgb(233, 227, 227);
+}
+
+
 
 /* section 5 footer */
 #footer{

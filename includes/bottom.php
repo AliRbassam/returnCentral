@@ -15,7 +15,7 @@
                 <div class="col-lg-1">&nbsp;</div>
 
                 <div class="col-lg-4">
-                    <div class="small white">Namd of state, United States <br> xxxxxxx@returncentralrx.com</div>
+                    <div class="small white">Namd of state, United States <br>xxxxxxx@returncentralrx.com</div>
                 </div>
 
                 <div class="col-lg-1">&nbsp;</div>
@@ -40,8 +40,8 @@
                 <div class="col-lg-1">&nbsp;</div>
 
                 <div class="col-lg-4">
-                    <div class="tiny white">For any further inquiries about RETURN CENTRAL RX Private Label Supplements, our manufacturing process, and a comparative analysis with our competitors, please feel free to reach out to us via email at xxxx@returncentralrx.com.</div>
-                    <div class="topSpacerSmall tiny white">We are available to assist you from [Day] to [Day], between [Time] am and [Time] pm</div>
+                    <div class="tiny white">For any further inquiries about RETURN CENTRAL RX Private Label Supplements, our manufacturing process, and a comparative analysis with our competitors, please feel free to reach out to us via email at <p style="color:green;">xxxx@returncentralrx.com</p></div>
+                    <div class="topSpacerSmall tiny white">We are available to assist you from<p style="color:green;"> [Day] to [Day], between [Time] am and [Time] pm</p></div>
                 </div>
 
                 <div class="col-lg-1">&nbsp;</div>
