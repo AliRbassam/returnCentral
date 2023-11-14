@@ -1,6 +1,6 @@
 
 	<!------Footer------>
-	<div class="section greenBg topSpacer"></div>
+	<!-- <div class="section greenBg topSpacer"></div> -->
 
 	<div id="footer" class="blueBg">
 

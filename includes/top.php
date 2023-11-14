@@ -66,7 +66,7 @@
 			
 			<ul class="navbar">
 				<li>
-					<a href="../../page/overview/" class="small <?php if($CURRENT_SECTION=="OVERVIEW"){echo"green";}else{echo"blackGreen";} ?>">Overview</a>
+					<a href="../../page/home/" class="small <?php if($CURRENT_SECTION=="OVERVIEW"){echo"green";}else{echo"blackGreen";} ?>">Overview</a>
 				</li>
 				<li>
 					<a href="../../page/ourProcess/" class="small <?php if($CURRENT_SECTION=="OUR PROCESS"){echo"green";}else{echo"blackGreen";} ?>">Our Process </a>
